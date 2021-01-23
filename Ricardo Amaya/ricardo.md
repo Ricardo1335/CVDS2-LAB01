@@ -22,7 +22,6 @@ Mis comidas favoritas:
 2. Salchipapa
 3. Pollo a la broaster
 
-
 [Mi grupo favorito](https://www.youtube.com/watch?v=ddijvwAMw0o)
 
 # Mi instrumento
@@ -31,13 +30,7 @@ Mis comidas favoritas:
 
 Mi carnet de la u: `2161335`
 
-
-
-
 # PARTE 3
+![](https://raw.githubusercontent.com/Ricardo1335/CVDS2-LAB01/master/Ricardo%20Amaya/1.jpeg)
 
-
-![](https://raw.githubusercontent.com/Ricardo1335/CVDS2-LAB01/master/Ricardo%20Amaya/1.jpEg)
-
-
-![](https://raw.githubusercontent.com/Ricardo1335/CVDS2-LAB01/master/Ricardo%20Amaya/2.jpEg)
+![](https://raw.githubusercontent.com/Ricardo1335/CVDS2-LAB01/master/Ricardo%20Amaya/2.jpeg)
