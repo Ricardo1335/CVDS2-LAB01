@@ -30,3 +30,14 @@ Mis comidas favoritas:
 ![](https://raw.githubusercontent.com/Ricardo1335/CVDS2-LAB01/master/Ricardo%20Amaya/trompeta-baja-musica-11813301.jpg)
 
 Mi carnet de la u: `2161335`
+
+
+
+
+# PARTE 3
+
+
+![](https://raw.githubusercontent.com/Ricardo1335/CVDS2-LAB01/master/Ricardo%20Amaya/1.jpEg)
+
+
+![](https://raw.githubusercontent.com/Ricardo1335/CVDS2-LAB01/master/Ricardo%20Amaya/2.jpEg)
