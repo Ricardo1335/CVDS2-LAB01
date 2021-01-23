@@ -1,10 +1,10 @@
 # QUIEN SOY
 
-Mi nombre es **Ricardo Amaya** estudio *Ingeniería de sistemas*
+Mi nombre es **Ricardo Amaya** estudio *IngenierÃ­a de sistemas*
 
 ## QUE ME GUSTA
 
-Lo que más amo en la vida es la música\
+Lo que mÃ¡s amo en la vida es la mÃºsica\
 y los animales. 
 
 ### MI FRASE 
