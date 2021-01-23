@@ -26,7 +26,8 @@ Mis comidas favoritas:
 [Mi grupo favorito](https://www.youtube.com/watch?v=ddijvwAMw0o)
 
 # Mi instrumento
-![Trumpet]
+![]
+
 (https://raw.githubusercontent.com/Ricardo1335/CVDS2-LAB01/master/Ricardo%20Amaya/trompeta-baja-musica-11813301.jpg)
 
 Mi carnet de la u: `2161335`
