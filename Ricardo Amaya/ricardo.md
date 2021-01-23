@@ -1,10 +1,10 @@
 # QUIEN SOY
 
-Mi nombre es **Ricardo Amaya** estudio *Ingeniería de sistemas*
+Mi nombre es **Ricardo Amaya** estudio *IngenierÃ­a de sistemas*
 
 ## QUE ME GUSTA
 
-Lo que más amo en la vida es la música\
+Lo que mÃ¡s amo en la vida es la mÃºsica\
 y los animales. 
 
 ### MI FRASE 
@@ -27,6 +27,7 @@ Mis comidas favoritas:
 
 # Mi instrumento
 ![]
+
 (https://cdn5.dibujos.net/dibujos/pintados/202022/trompeta-baja-musica-11813301.jpg)
 
 Mi carnet de la u: `2161335`
