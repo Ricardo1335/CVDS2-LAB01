@@ -27,6 +27,6 @@ Mis comidas favoritas:
 
 # Mi instrumento
 ![]
-(https://github.com/Ricardo1335/CVDS2-LAB01/blob/master/Ricardo%20Amaya/assets/trompeta-baja-musica-11813301.jpg)
+(https://github.com/Ricardo1335/CVDS2-LAB01/blob/master/Ricardo%20Amaya/trompeta-baja-musica-11813301.jpg)
 
 Mi carnet de la u: `2161335`
