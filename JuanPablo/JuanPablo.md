@@ -29,7 +29,7 @@ me gusta aprender(sobre todo ciencia) aunque sea algo perezoso.
 
 ## Ultima serie que vi
 
-![dark]
+![dark](https://raw.githubusercontent.com/Ricardo1335/CVDS2-LAB01/master/JuanPablo/dark.jpg)
 
 
 **hello world.c**
