@@ -42,8 +42,8 @@ int main(void){
 
 # PARTE III
 
-![git 1](https://raw.githubusercontent.com/Ricardo1335/CVDS2-LAB01/master/JuanPablo/tutorialGit1)
-![git 2](https://raw.githubusercontent.com/Ricardo1335/CVDS2-LAB01/master/JuanPablo/tutorialGit2)
+![git 1](https://raw.githubusercontent.com/Ricardo1335/CVDS2-LAB01/master/JuanPablo/tutorialGit1.PNG)
+![git 2](https://raw.githubusercontent.com/Ricardo1335/CVDS2-LAB01/master/JuanPablo/tutorialGit2.PNG)
 
 
 
